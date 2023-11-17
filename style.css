@@ -27,6 +27,13 @@ body{
     text-align:center;
 }
 
+.tally{
+    border:2px solid black;
+    width:20px;
+    padding-left:2px;
+    padding-right:2px;
+    margin-left:25px;
+}
 .cb{
     color:white;
     font-size:1rem;
@@ -51,6 +58,7 @@ body{
 .wild{
     background-color:black;
 }
+
 
 .nb{
     background-color:black;
